@@ -1,0 +1,11 @@
+Wilayah,Waktu,Volume Kendaraan,Cuaca,Penyebab Kemacetan,Tingkat Kemacetan
+Jakarta Pusat,Pagi,900,Cerah,Parkir Liar,Tinggi
+Jakarta Selatan,Sore,920,Hujan,Volume Kendaraan,Tinggi
+Jakarta Timur,Sore,850,Cerah,Kecelakaan,Sedang
+Jakarta Barat,Pagi,780,Mendung,Pasar Tumpah,Tinggi
+Jakarta Utara,Siang,520,Cerah,Lampu Merah,Sedang
+Jakarta Pusat,Siang,300,Hujan,Volume Kendaraan,Rendah
+Jakarta Selatan,Sore,950,Cerah,Lampu Merah,Tinggi
+Jakarta Timur,Pagi,760,Mendung,Parkir Liar,Sedang
+Jakarta Barat,Sore,880,Hujan,Kecelakaan,Tinggi
+Jakarta Utara,Malam,400,Cerah,Aktivitas Pelabuhan,Rendah
