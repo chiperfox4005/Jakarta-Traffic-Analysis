@@ -56,7 +56,9 @@ Proyek ini menghasilkan:
 * Dokumentasi proses analisis
 
 ---
+## Contributors
 
-## Developer
+This project was developed collaboratively by:
 
-Fikry Mumtaz Pratama
+* FIKRY MUMTAZ PRATAMA (@chiperfox4005)
+* Ham171105 (@Ham171105)
